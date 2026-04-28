@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Rohan Sawant 👋
 
-<!--
-**RohanSawant-09/RohanSawant-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring Data, Business Analytics & Generative AI
 
-Here are some ideas to get you started:
+I’m transitioning from an operations background into roles where I can solve real-world business problems using data and AI. Currently building hands-on projects that combine analytics, product thinking, and Gen AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I'm Learning
+
+* Data Analysis (Python, Pandas, SQL)
+* Business Thinking (metrics, insights, decision-making)
+* Generative AI (LLMs, prompt engineering, use-cases)
+* Data Visualization (Power BI)
+
+---
+
+## 🎯 What I'm Building
+
+* AI-powered data analysis projects
+* Business insight engines using real-world datasets
+* End-to-end analytics workflows (Python → SQL → Dashboard → AI)
+
+---
+
+## 🛠️ Tools & Skills
+
+* Python | Pandas | NumPy
+* SQL (MySQL)
+* Power BI
+* VS Code | Git | GitHub
+
+---
+
+## 📌 Current Focus
+
+Building projects that combine:
+👉 Data + AI + Business decision-making
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: (https://www.linkedin.com/in/rohan-sawant-2b4315270/)
+* Email: (sawantrohan669@gmail.com)
+
+---
+
+⭐ This profile documents my journey of becoming a data-driven problem solver.

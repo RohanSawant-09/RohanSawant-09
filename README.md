@@ -41,7 +41,7 @@ Building projects that combine:
 
 ## 📫 Connect with me
 
-* LinkedIn: (https://www.linkedin.com/in/rohan-sawant-2b4315270/)
+* LinkedIn: (www.linkedin.com/in/rohan-sawant-genai)
 * Email: (sawantrohan669@gmail.com)
 
 ---

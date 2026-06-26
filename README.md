@@ -74,11 +74,17 @@ analysis, meeting automation, and weekly reporting.
 Average quality score: 98.1%
 [View on Notion](https://www.notion.so/Prompt-Library-3814cec86fd480e0a064f26f6314a37c?source=copy_link)
 
+### 📄 RAG Document Analyser
+AI-powered PDF Q&A app using RAG pipeline.
+Upload any document, ask questions in plain 
+English, get answers with source citations.
+Built with LlamaIndex + Streamlit + Gemini.
+[View Project](https://github.com/RohanSawant-09/rag-document-analyser)
+
 ---
 
 ## 📊 Currently Building
 
-- RAG-powered Document Analyser (LlamaIndex + Streamlit)
 - AI Workflow Automation Suite (n8n + LLM pipelines)
 - Expanding prompt library across new business domains
 

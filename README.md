@@ -79,7 +79,7 @@ AI-powered PDF Q&A app using RAG pipeline.
 Upload any document, ask questions in plain 
 English, get answers with source citations.
 Built with LlamaIndex + Streamlit + Gemini.
-[View Project](https://github.com/RohanSawant-09/rag-document-analyser)
+[View Project](https://github.com/RohanSawant-09/rag-document-analyzer)
 
 ---
 
